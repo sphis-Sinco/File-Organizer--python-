@@ -1,6 +1,9 @@
 # This is a fun little script by Sphis_Sinco
 # 1.0 - []
 
+# TODO: how to read directory for files?
+import os
+
 # this is a quick little dictionary to keep track of what files go where
 extensions_and_folder = {
     "txt": "Data",
